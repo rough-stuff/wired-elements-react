@@ -28,7 +28,7 @@ function App() {
       <h1>wired-elements demo</h1>
       <section>
         <WiredInput placeholder="your name" />
-        <WiredButton elevation="2" onClick={handleClick}>
+        <WiredButton elevation={2} onClick={handleClick}>
           Submit
         </WiredButton>
       </section>
