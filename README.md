@@ -38,7 +38,7 @@ function App() {
 ```
 
 ## Example
-Here's a basic example on CodeSandbox: [Open sanbox](https://codesandbox.io/s/react-wrapper-for-wired-elements-vid1j?file=/src/index.js)
+Here's a basic example on CodeSandbox: [Open sandbox](https://codesandbox.io/s/react-wrapper-for-wired-elements-vid1j?file=/src/index.js)
 
 ## Documentation
 
