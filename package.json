@@ -1,11 +1,11 @@
 {
   "name": "wired-elements-react",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "React wrappers for wired-elements",
   "type": "module",
-  "main": "lib/wired-elements.js",
-  "module": "lib/wired-elements.js",
-  "types": "lib/wired-elements.d.ts",
+  "main": "lib/WiredElements.js",
+  "module": "lib/WiredElements.js",
+  "types": "lib/WiredElements.d.ts",
   "scripts": {
     "build": "rm -rf lib && tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
