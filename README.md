@@ -24,7 +24,7 @@ function App() {
   }
 
   return (
-    <WiredCard elevation="5" fill="red">
+    <WiredCard elevation="5">
       <h1>wired-elements demo</h1>
       <section>
         <WiredInput placeholder="your name" />
