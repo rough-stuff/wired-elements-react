@@ -37,6 +37,9 @@ function App() {
 }
 ```
 
+## Example
+Here's a basic example on CodeSandbox: [Open sanbox](https://codesandbox.io/s/react-wrapper-for-wired-elements-vid1j?file=/src/index.js)
+
 ## Documentation
 
 Documentation on individual component can be [found here](https://github.com/rough-stuff/wired-elements/tree/master/docs).
