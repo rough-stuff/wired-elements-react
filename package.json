@@ -7,7 +7,7 @@
   "module": "lib/WiredElements.js",
   "types": "lib/WiredElements.d.ts",
   "scripts": {
-    "build": "rm -rf lib && tsc",
+    "build": "rimraf -rf lib && tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -30,6 +30,8 @@
     "wired-elements": "^3.0.0-rc.6"
   },
   "devDependencies": {
-    "@types/react": "^17.0.3"
+    "@types/react": "^17.0.3",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.3.4"
   }
 }
