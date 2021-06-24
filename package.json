@@ -3,6 +3,7 @@
   "version": "0.1.5",
   "description": "React wrappers for wired-elements",
   "type": "module",
+  "sideEffects": false,
   "main": "lib/WiredElements.js",
   "module": "lib/WiredElements.js",
   "types": "lib/WiredElements.d.ts",
