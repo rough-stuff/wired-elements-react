@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rough-stuff/react-wired-elements.git"
+    "url": "git+https://github.com/rough-stuff/wired-elements-react.git"
   },
   "keywords": [
     "wired",
@@ -21,15 +21,18 @@
   "author": "Preet Shihn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rough-stuff/react-wired-elements/issues"
+    "url": "https://github.com/rough-stuff/wired-elements-react/issues"
   },
-  "homepage": "https://github.com/rough-stuff/react-wired-elements#readme",
+  "homepage": "https://github.com/rough-stuff/wired-elements-react#readme",
+  "peerDependencies": {
+    "react": ">=16 <18"
+  },
   "dependencies": {
     "@lit-labs/react": "^1.0.0-rc.1",
-    "react": "^17.0.2",
     "wired-elements": "^3.0.0-rc.6"
   },
   "devDependencies": {
-    "@types/react": "^17.0.3"
+    "@types/react": "^17.0.3",
+    "react": "^17.0.2"
   }
 }
